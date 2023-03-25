@@ -1,0 +1,8 @@
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\bin\Release\HelloWord.exe.config
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\bin\Release\HelloWord.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\bin\Release\HelloWord.pdb
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Release\HelloWord.csproj.AssemblyReference.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Release\HelloWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Release\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Release\HelloWord.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Release\HelloWord.pdb

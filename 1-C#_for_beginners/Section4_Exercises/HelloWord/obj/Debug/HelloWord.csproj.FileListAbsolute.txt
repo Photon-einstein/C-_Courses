@@ -1,0 +1,16 @@
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\bin\Debug\HelloWord.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.AssemblyReference.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Debug\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\HelloWord\HelloWord\obj\Debug\HelloWord.pdb
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section4\HelloWord\bin\Debug\HelloWord.exe.config
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section4\HelloWord\bin\Debug\HelloWord.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section4\HelloWord\bin\Debug\HelloWord.pdb
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section4\HelloWord\obj\Debug\HelloWord.csproj.AssemblyReference.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section4\HelloWord\obj\Debug\HelloWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section4\HelloWord\obj\Debug\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section4\HelloWord\obj\Debug\HelloWord.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section4\HelloWord\obj\Debug\HelloWord.pdb

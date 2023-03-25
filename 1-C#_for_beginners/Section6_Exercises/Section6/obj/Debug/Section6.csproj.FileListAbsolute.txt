@@ -1,0 +1,8 @@
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section6\Section6\bin\Debug\Section6.exe.config
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section6\Section6\bin\Debug\Section6.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section6\Section6\bin\Debug\Section6.pdb
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section6\Section6\obj\Debug\Section6.csproj.AssemblyReference.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section6\Section6\obj\Debug\Section6.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section6\Section6\obj\Debug\Section6.csproj.CoreCompileInputs.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section6\Section6\obj\Debug\Section6.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\1-C#_for_beginners\Section6\Section6\obj\Debug\Section6.pdb
