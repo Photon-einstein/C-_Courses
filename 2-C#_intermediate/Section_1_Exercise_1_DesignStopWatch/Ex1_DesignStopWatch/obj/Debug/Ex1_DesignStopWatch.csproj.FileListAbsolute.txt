@@ -1,0 +1,8 @@
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Ex1_DesignStopWatch\Ex1_DesignStopWatch\bin\Debug\Ex1_DesignStopWatch.exe.config
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Ex1_DesignStopWatch\Ex1_DesignStopWatch\bin\Debug\Ex1_DesignStopWatch.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Ex1_DesignStopWatch\Ex1_DesignStopWatch\bin\Debug\Ex1_DesignStopWatch.pdb
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Ex1_DesignStopWatch\Ex1_DesignStopWatch\obj\Debug\Ex1_DesignStopWatch.csproj.AssemblyReference.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Ex1_DesignStopWatch\Ex1_DesignStopWatch\obj\Debug\Ex1_DesignStopWatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Ex1_DesignStopWatch\Ex1_DesignStopWatch\obj\Debug\Ex1_DesignStopWatch.csproj.CoreCompileInputs.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Ex1_DesignStopWatch\Ex1_DesignStopWatch\obj\Debug\Ex1_DesignStopWatch.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Ex1_DesignStopWatch\Ex1_DesignStopWatch\obj\Debug\Ex1_DesignStopWatch.pdb
