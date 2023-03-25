@@ -4,8 +4,8 @@ To test the resolution of each exercise open the project using a version of Visu
 
 # List of C# courses:
 
-. C# Basics for Beginners: Learn C# Fundamentals by Coding
+* C# Basics for Beginners: Learn C# Fundamentals by Coding
 https://www.udemy.com/course/csharp-tutorial-for-beginners/
 
-. C# Intermediate: Classes, Interfaces and OOP
+* C# Intermediate: Classes, Interfaces and OOP
 https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/
