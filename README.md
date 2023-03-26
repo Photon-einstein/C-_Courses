@@ -2,7 +2,7 @@
 This repository contains all my resolutions of the several exercises from the C# courses that I am taken. 
 To test the resolution of each exercise open the project using Visual Studio.
 
-# List of C# courses:
+# List of C# courses done in this repo:
 
 * C# Basics for Beginners: Learn C# Fundamentals by Coding  
 https://www.udemy.com/course/csharp-tutorial-for-beginners/
