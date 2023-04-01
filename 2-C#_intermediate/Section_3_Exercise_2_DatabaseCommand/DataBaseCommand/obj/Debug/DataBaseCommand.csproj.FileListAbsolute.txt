@@ -1,0 +1,8 @@
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_3_Exercise_2_DatabaseCommand\DataBaseCommand\bin\Debug\DataBaseConnection.exe.config
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_3_Exercise_2_DatabaseCommand\DataBaseCommand\bin\Debug\DataBaseConnection.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_3_Exercise_2_DatabaseCommand\DataBaseCommand\bin\Debug\DataBaseConnection.pdb
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_3_Exercise_2_DatabaseCommand\DataBaseCommand\obj\Debug\DataBaseCommand.csproj.AssemblyReference.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_3_Exercise_2_DatabaseCommand\DataBaseCommand\obj\Debug\DataBaseCommand.csproj.SuggestedBindingRedirects.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_3_Exercise_2_DatabaseCommand\DataBaseCommand\obj\Debug\DataBaseCommand.csproj.CoreCompileInputs.cache
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_3_Exercise_2_DatabaseCommand\DataBaseCommand\obj\Debug\DataBaseConnection.exe
+C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_3_Exercise_2_DatabaseCommand\DataBaseCommand\obj\Debug\DataBaseConnection.pdb
