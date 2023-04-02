@@ -1,8 +1,0 @@
-C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_4_Exercise_1_WorkflowEngine\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe.config
-C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_4_Exercise_1_WorkflowEngine\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.exe
-C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_4_Exercise_1_WorkflowEngine\WorkflowEngine\WorkflowEngine\bin\Debug\WorkflowEngine.pdb
-C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_4_Exercise_1_WorkflowEngine\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.AssemblyReference.cache
-C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_4_Exercise_1_WorkflowEngine\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.SuggestedBindingRedirects.cache
-C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_4_Exercise_1_WorkflowEngine\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.csproj.CoreCompileInputs.cache
-C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_4_Exercise_1_WorkflowEngine\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.exe
-C:\Users\tlsou\OneDrive\Ambiente de Trabalho\Udemy\2-C#_intermediate\Section_4_Exercise_1_WorkflowEngine\WorkflowEngine\WorkflowEngine\obj\Debug\WorkflowEngine.pdb
